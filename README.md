@@ -1,7 +1,9 @@
+
+
 ## Cooperative Coevolution
 Cooperative Coevolution (CC) framework [1] is a "divide and conquer" based method which is widely used in the field of Large Scale Global Optimization Problem (LSGO). It breaks problem dimension into small sub-problems and evolve them separately. Sub-problem collaboration occurs only during function evaluation.
 
-## Base Oprimizer
+## Base Optimizer
 [Differential Evolution](http://yarpiz.com/231/ypea107-differential-evolution)
 
 ## Requirements
